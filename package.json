@@ -1,0 +1,30 @@
+{
+  "name": "technical-assessment-prosource",
+  "version": "1.0.0",
+  "description": "Technical assessment for prosource",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --verbose ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoMatuguina/technical-assessment-prosource.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Jest"
+  ],
+  "author": "Kino Matuguina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinoMatuguina/technical-assessment-prosource/issues"
+  },
+  "homepage": "https://github.com/KinoMatuguina/technical-assessment-prosource#readme",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.1",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.4"
+  }
+}
